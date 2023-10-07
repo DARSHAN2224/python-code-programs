@@ -1,0 +1,9 @@
+2023-08-30 21:15:28,790-DEBUG-start of the program
+2023-08-30 21:15:28,790-DEBUG-start of factorial (5%)
+2023-08-30 21:15:28,790-DEBUG-i is 1 total is1
+2023-08-30 21:15:28,790-DEBUG-i is 2 total is2
+2023-08-30 21:15:28,790-DEBUG-i is 3 total is6
+2023-08-30 21:15:28,790-DEBUG-i is 4 total is24
+2023-08-30 21:15:28,790-DEBUG-i is 5 total is120
+2023-08-30 21:15:28,790-DEBUG-end of torial(5%)
+2023-08-30 21:15:28,806-DEBUG-end of the program

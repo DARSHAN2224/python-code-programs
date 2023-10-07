@@ -1,0 +1,8 @@
+a=int(input("enter the value of a\n"))
+b=int(input("enter the value of b\n"))
+print(f"sum of {a} and {b} is {a+b}")
+print("sub of {} and {} is {}".format(a,b,a-b))
+print("multiply of %d and %d is %2.2f"%(a,b,a*b))
+print(f"div of {a} and {b} is {a/b}")
+print(f"modulus of {a} and {b} is {a%b}")
+print("floor division is",(a//b))
